@@ -1,5 +1,5 @@
 # 注意替换SRC_RT，其他内容不需要修改
-SRC_RT=/home/xlanchen/os_lab02/src
+SRC_RT=/home/miloq/workspace/OS_EX/multiboot_serials/USTC-OS2021-CXL/2_multiboot2myMain
 #$(shell pwd)
 
 CROSS_COMPILE=
